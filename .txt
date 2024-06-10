@@ -1,0 +1,19 @@
+id for the api = 96c7b7112839f9fa11ca18cf32020520
+
+
+// api for use
+https://api.openweathermap.org/data/2.5/weather?q=pune&units=metric&appid=7ff24ec5e62c08f6684e5c3ec4ed03ca
+
+
+
+
+
+// these are apis
+https://api.openweathermap.org/data/2.5/weather?q=pune&appid=96c7b7112839f9fa11ca18cf32020520
+7ff24ec5e62c08f6684e5c3ec4ed03ca
+https://api.openweathermap.org/data/2.5/weather?q=pune&appid=7ff24ec5e62c08f6684e5c3ec4ed03ca
+https://api.openweathermap.org/data/2.5/weather?q=pune&appid=7ff24ec5e62c08f6684e5c3ec4ed03ca
+
+
+
+https://api.openweathermap.org/data/2.5/weather?q={cityName}&appid={apiKey}
